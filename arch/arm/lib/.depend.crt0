@@ -1,0 +1,10 @@
+crt0.o: crt0.S /home/book/NUC970/uboot/include/config.h \
+ /home/book/NUC970/uboot/include/config_cmd_defaults.h \
+ /home/book/NUC970/uboot/include/config_defaults.h \
+ /home/book/NUC970/uboot/include/configs/nuc970_evb.h \
+ /home/book/NUC970/uboot/include/config_cmd_default.h \
+ /home/book/NUC970/uboot/include/asm/config.h \
+ /home/book/NUC970/uboot/include/config_fallbacks.h \
+ /home/book/NUC970/uboot/include/config_uncmd_spl.h \
+ /home/book/NUC970/uboot/include/asm-offsets.h \
+ /home/book/NUC970/uboot/include/generated/generic-asm-offsets.h

@@ -1,0 +1,2 @@
+winbond.c:89:27:winbond_set_4byte_mode	0	static
+winbond.c:96:19:spi_flash_probe_winbond	8	static

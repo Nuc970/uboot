@@ -1,0 +1,11 @@
+nuc970_eth.c:158:5:nuc970_eth_write_hwaddr	0	static
+nuc970_eth.c:195:7:nuc970_eth_halt	0	static
+nuc970_eth.c:222:5:nuc970_eth_send	0	static
+nuc970_eth.c:200:5:nuc970_eth_recv	16	static
+nuc970_eth.c:43:5:nuc970_eth_mii_write	0	static
+nuc970_eth.c:55:5:nuc970_eth_mii_read	0	static
+nuc970_eth.c:65:5:nuc970_reset_phy	16	static
+nuc970_eth.c:124:6:init_tx_desc	12	static
+nuc970_eth.c:141:6:init_rx_desc	20	static
+nuc970_eth.c:176:5:nuc970_eth_init	16	static
+nuc970_eth.c:242:5:nuc970_eth_register	8	static

@@ -1,0 +1,8 @@
+crc16.o: crc16.c /home/book/NUC970/uboot/include/linux/types.h \
+ /home/book/NUC970/uboot/include/linux/config.h \
+ /home/book/NUC970/uboot/include/linux/posix_types.h \
+ /home/book/NUC970/uboot/include/linux/stddef.h \
+ /home/book/NUC970/uboot/include/asm/posix_types.h \
+ /home/book/NUC970/uboot/include/asm/types.h \
+ /usr/local/arm_linux_4.8/lib/gcc/arm-nuvoton-linux-uclibceabi/4.8.4/include/stdbool.h \
+ crc16.h

@@ -1,0 +1,1 @@
+/home/book/NUC970/uboot/common/stdio.c

@@ -1,0 +1,2 @@
+cmd_boot.c:37:15:do_go_exec	8	static
+cmd_boot.c:43:12:do_go	16	static

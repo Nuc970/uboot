@@ -1,0 +1,2 @@
+cmd_ubi.c:197:27:ubi_find_volume	24	static
+cmd_ubi.c:434:12:do_ubi	288	static

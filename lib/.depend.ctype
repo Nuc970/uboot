@@ -1,0 +1,1 @@
+ctype.o: ctype.c /home/book/NUC970/uboot/include/linux/ctype.h
