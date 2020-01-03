@@ -8,4 +8,4 @@
   make all
   ```
 
-生成的文件在uboot\u-boot.bin 和uboot\nand_spl\u-boot-spl.bin 两个文件，请拷贝至windows下进行烧录
+生成的文件在uboot\u-boot.bin 和uboot\nand_spl\u-boot-spl.bin 两个文件，请拷贝至windows下进行烧录。

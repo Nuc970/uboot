@@ -1598,11 +1598,11 @@
 00e55823 r __func__.7618
 00e55832 r __func__.7627
 00e55843 V version_string
-00e5587e r CSWTCH.62
-00e55894 r delims.5958
-00e55897 R default_environment
-00e558cf r __func__.6084
-00e558df r __func__.6095
+00e5587f r CSWTCH.62
+00e55895 r delims.5958
+00e55898 R default_environment
+00e558d0 r __func__.6084
+00e558e0 r __func__.6095
 00e558ec r env_flags_vartype_rep
 00e558f3 r env_flags_varaccess_rep
 00e558f8 r env_flags_varaccess_mask

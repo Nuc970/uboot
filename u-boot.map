@@ -1185,7 +1185,7 @@ Linker script and memory map
  .rodata        0x00e556b4       0x80 arch/arm/lib/libarm.o
  .rodata        0x00e55734      0x4e8 common/libcommon.o
                 0x00e55843                version_string
-                0x00e55897                default_environment
+                0x00e55898                default_environment
  .rodata        0x00e55c1c       0x10 disk/libdisk.o
  .rodata        0x00e55c2c       0x88 drivers/gpio/libgpio.o
  .rodata        0x00e55cb4       0x94 drivers/input/libinput.o
