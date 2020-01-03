@@ -1,0 +1,19 @@
+compr_rtime.o: compr_rtime.c /home/book/NUC970/uboot/include/config.h \
+ /home/book/NUC970/uboot/include/config_cmd_defaults.h \
+ /home/book/NUC970/uboot/include/config_defaults.h \
+ /home/book/NUC970/uboot/include/configs/nuc970_evb.h \
+ /home/book/NUC970/uboot/include/config_cmd_default.h \
+ /home/book/NUC970/uboot/include/asm/config.h \
+ /home/book/NUC970/uboot/include/config_fallbacks.h \
+ /home/book/NUC970/uboot/include/config_uncmd_spl.h \
+ /home/book/NUC970/uboot/include/jffs2/jffs2.h \
+ /home/book/NUC970/uboot/include/asm/types.h \
+ /home/book/NUC970/uboot/include/jffs2/load_kernel.h \
+ /home/book/NUC970/uboot/include/linux/list.h \
+ /home/book/NUC970/uboot/include/linux/stddef.h \
+ /home/book/NUC970/uboot/include/linux/types.h \
+ /home/book/NUC970/uboot/include/linux/config.h \
+ /home/book/NUC970/uboot/include/linux/posix_types.h \
+ /home/book/NUC970/uboot/include/asm/posix_types.h \
+ /usr/local/arm_linux_4.8/lib/gcc/arm-nuvoton-linux-uclibceabi/4.8.4/include/stdbool.h \
+ /home/book/NUC970/uboot/include/linux/poison.h

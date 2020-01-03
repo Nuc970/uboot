@@ -1,0 +1,8 @@
+mini_inflate.c:198:13:fill_code_tables	16	static
+mini_inflate.c:33:13:cramfs_memset	0	static
+mini_inflate.c:220:13:init_code_tables	8	static
+mini_inflate.c:82:22:pull_bits	16	static
+mini_inflate.c:102:12:pull_bit	0	static
+mini_inflate.c:137:12:read_symbol	24	static
+mini_inflate.c:155:13:decompress_huffman	40	static
+mini_inflate.c:366:6:decompress_block	3352	static

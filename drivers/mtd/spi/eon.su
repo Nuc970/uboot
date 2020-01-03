@@ -1,2 +1,0 @@
-eon.c:49:27:eon_set_4byte_mode	0	static
-eon.c:56:19:spi_flash_probe_eon	8	static

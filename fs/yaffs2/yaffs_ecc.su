@@ -1,0 +1,6 @@
+bitops.h:83:28:generic_hweight32	0	static
+bitops.h:100:28:generic_hweight8	0	static
+yaffs_ecc.c:72:6:yaffs_ecc_calc	16	static
+yaffs_ecc.c:135:5:yaffs_ecc_correct	32	static
+yaffs_ecc.c:205:6:yaffs_ecc_calc_other	20	static
+yaffs_ecc.c:231:5:yaffs_ecc_correct_other	24	static

@@ -40,7 +40,7 @@ nand_base.c:2096:12:nand_do_write_oob	56	static
 nand_base.c:396:12:nand_default_block_markbad	56	static
 nand_base.c:1917:12:nand_do_write_ops	80	static
 nand_base.c:2174:12:nand_write_oob	32	static
-nand_base.c:2029:12:nand_write	40	static
+nand_base.c:2029:12:nand_write	72	dynamic
 nand_base.c:206:13:nand_select_chip	8	static
 nand_base.c:1150:17:nand_transfer_oob	24	static
 nand_base.c:498:6:nand_wait_ready	16	static

@@ -1,0 +1,6 @@
+yaffs_nand.c:20:5:yaffs_rd_chunk_tags_nand	96	static
+yaffs_nand.c:51:5:yaffs_wr_chunk_tags_nand	24	static
+yaffs_nand.c:83:5:yaffs_mark_bad	8	static
+yaffs_nand.c:92:5:yaffs_query_init_block_state	8	static
+yaffs_nand.c:105:5:yaffs_erase_block	8	static
+yaffs_nand.c:115:5:yaffs_init_nand	8	static

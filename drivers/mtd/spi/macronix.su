@@ -1,2 +1,0 @@
-macronix.c:89:27:macronix_set_4byte_mode	0	static
-macronix.c:96:19:spi_flash_probe_macronix	16	static

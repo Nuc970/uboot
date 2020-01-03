@@ -1,0 +1,4 @@
+cmd_jffs2.c:441:26:jffs2_part_info	16	static
+cmd_jffs2.c:488:5:do_jffs2_fsload	24	static
+cmd_jffs2.c:550:5:do_jffs2_ls	8	static
+cmd_jffs2.c:588:5:do_jffs2_fsinfo	8	static

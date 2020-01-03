@@ -47,7 +47,7 @@
 
 //#define CONFIG_SYS_USE_SPIFLASH
 #define CONFIG_SYS_USE_NANDFLASH
-//#define CONFIG_SYS_NO_FLASH    // that is, no *NOR* flash 
+#define CONFIG_SYS_NO_FLASH    // that is, no *NOR* flash 
 #define CONFIG_ENV_IS_IN_NAND 
 //#define CONFIG_ENV_IS_IN_SPI_FLASH 
 //#define CONFIG_ENV_IS_IN_MMC
